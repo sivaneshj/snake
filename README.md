@@ -1,1 +1,2 @@
-# snake
+# snake game
+# source code
